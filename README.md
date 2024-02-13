@@ -1,5 +1,5 @@
 # 🥡 Food Ordering Website Design 
-<img src="Ordering" align="right" width="600" height="300">
+<img src="Ordering.png" align="right" width="600" height="300">
 • Responsive Food Ordering Website Design
 <br>
 • Made with React Next.js using Full Stack.
