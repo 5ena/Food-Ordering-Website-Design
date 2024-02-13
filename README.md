@@ -7,7 +7,7 @@
 <br>
 • Made with React Next.js using Full Stack.
 <br>
-- There is a login and registration page.
+• There is a login and registration page.
 <br>
 • There is an admin panel on the website.
 <br>
